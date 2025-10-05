@@ -279,6 +279,7 @@ h3.worker{
 }
 /* content-3 */
 .tit-of{
+    margin-top: 20px;
     font-size: 30px;
 }
 .varies{
@@ -289,6 +290,7 @@ h3.worker{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-left: 10px;
 
 }
 .cardeds-list{
@@ -325,9 +327,14 @@ h3.worker{
 }
 .project-idia{
     font-size: 20px;
+    
 }
 .project-talk{
     font-size: 10px;
+}
+.let-work{
+    margin-bottom: 20px;
+    margin-left: -50px;
 }
 .let-work{
     font-size: 11px;
@@ -388,8 +395,8 @@ button.hello{
     padding: 10px 20px;
 }
 .my-knowledge-cards-list{
-    width: 80%;
-    height:80px;
+    width: 78%;
+    height:90px;
     top: 0;
     left: 10px;
 }
